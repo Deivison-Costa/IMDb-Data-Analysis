@@ -30,8 +30,8 @@ The code imports the required libraries: pandas to handle data, matplotlib.pyplo
 
 ## Two main functions are defined:
 
-- read_imdb_data(file_path): Reads the IMDb dataset file and loads it into a Pandas DataFrame.
-- analyze_imdb_data(df): Performs data analysis and visualization on the DataFrame.
+- *read_imdb_data(file_path):* Reads the IMDb dataset file and loads it into a Pandas DataFrame.
+- *analyze_imdb_data(df):* Performs data analysis and visualization on the DataFrame.
 
 ## The analyze_imdb_data function does the following:
 
