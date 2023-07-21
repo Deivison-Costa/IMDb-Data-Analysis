@@ -38,7 +38,7 @@ The code imports the required libraries: pandas to handle data, matplotlib.pyplo
 - Cleans the data by dropping rows with missing information in the 'region' and 'language' columns.
 - Computes the counts of titles by region and language, and the counts of different title types.
 - Plots the top 10 regions with the most titles, top 10 languages with the most titles, and the distribution of title types.
-- The main function executes the analysis by calling read_imdb_data to load the data and then calling analyze_imdb_data to perform the analysis and generate the visualizations.
+- The main function executes the analysis by calling *read_imdb_data* to load the data and then calling *analyze_imdb_data* to perform the analysis and generate the visualizations.
 
 # Technology Stack
 - Python.
