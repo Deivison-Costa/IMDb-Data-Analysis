@@ -33,7 +33,7 @@ The code imports the required libraries: pandas to handle data, matplotlib.pyplo
 - *read_imdb_data(file_path):* Reads the IMDb dataset file and loads it into a Pandas DataFrame.
 - *analyze_imdb_data(df):* Performs data analysis and visualization on the DataFrame.
 
-## The analyze_imdb_data function does the following:
+## The *analyze_imdb_data* function does the following:
 
 - Cleans the data by dropping rows with missing information in the 'region' and 'language' columns.
 - Computes the counts of titles by region and language, and the counts of different title types.
